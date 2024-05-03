@@ -1,2 +1,2 @@
-# app-tonics_cloud
+# App Tonics Cloud
 Contains Tonics Cloud App Releases
